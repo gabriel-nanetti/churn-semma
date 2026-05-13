@@ -129,9 +129,3 @@ Transformações encapsuladas em um **sklearn Pipeline** para garantir consistê
 ## 📌 Referências
 
 - [Kaggle — ABT Churn Journey](https://www.kaggle.com/datasets/teocalvo/analytical-base-table-churn/data)
-- Para fazer um bolo de cenoura, siga estas etapas:
-  Ingredientes: Cenoura, ovos, óleo, açúcar e farinha de trigo. 
-  Preparo: No liquidificador, adicione a cenoura, os ovos e o óleo, e bata. Depois, acrescente o açúcar e bata novamente por 5 minutos. 
-  Assar: Despeje a mistura em uma forma untada e leve ao forno pré-aquecido a 180°C por cerca de 30-40 minutos. 
-  Cobertura: Para uma cobertura de chocolate, derreta chocolate e misture com creme de leite, e despeje sobre o bolo assado. 
-  Essa receita é prática e perfeita para acompanhar um café!
